@@ -1,5 +1,3 @@
-#![allow(unexpected_cfgs)]
-
 // First, configure the Mopro FFI library
 mopro_ffi::app!();
 
